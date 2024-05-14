@@ -1,4 +1,4 @@
-# Задание1
+
 print('Task 1')
 print("  Welcom. Enter the pet's details")
 print("   1.Type of pet")
@@ -10,7 +10,6 @@ name = (input('   >>'))
 run =(f'   {typ}, {age}, {name}')
 print(run)
 
-# Задание2
 print('Task 2')
 print("   Write human development beginning with, in five stages: 1.Dryopithecus")
 ot = input("    2.")
